@@ -1117,7 +1117,7 @@ section {
   }
 }
 .btn-custom {
-  background-color: #4CAF50; /* Couleur de fond */
+  background-color: #7370d1; /* Couleur de fond */
   color: white; /* Couleur du texte */
   padding: 10px 20px; /* Espacement à l'intérieur du bouton */
   border: none; /* Supprime la bordure */
@@ -1128,5 +1128,5 @@ section {
 }
 
 .button.btn-custom:hover {
-  background-color: #45a049; /* Couleur de fond au survol */
+  background-color: #3841b7; /* Couleur de fond au survol */
 }
