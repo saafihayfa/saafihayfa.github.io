@@ -1116,17 +1116,18 @@ section {
     padding-right: 20px 15px;
   }
 }
+
 .btn-custom {
   background-color: #7370d1; /* Couleur de fond */
   color: white; /* Couleur du texte */
   padding: 10px 20px; /* Espacement à l'intérieur du bouton */
   border: none; /* Supprime la bordure */
-  border-radius: 5px; /* Arrondi les coins du bouton */
+  border-radius: 10px; /* Arrondi les coins du bouton */
   text-decoration: none; /* Supprime le soulignement du texte */
   font-size: 16px; /* Taille du texte */
   cursor: pointer; /* Curseur au survol */
 }
 
 .button.btn-custom:hover {
-  background-color: #3841b7; /* Couleur de fond au survol */
+  background-color: #37b3ed;/* Couleur de fond au survol */
 }
