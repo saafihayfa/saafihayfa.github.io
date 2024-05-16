@@ -1131,3 +1131,8 @@ section {
 .button.btn-custom:hover {
   background-color: #37b3ed;/* Couleur de fond au survol */
 }
+
+#myVideo {
+  width: 100%; /* ou une largeur fixe en pixels */
+  height: auto; /* pour conserver le ratio hauteur/largeur de la vidéo */
+}
